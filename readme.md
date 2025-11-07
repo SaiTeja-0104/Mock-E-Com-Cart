@@ -40,7 +40,7 @@ A MERN-stack ecommerce application built for the **Vibe Commerce screening**. Th
 ---
 
 ## 📁 Project Structure
-
+```
 ├── backend/
 │ ├── models/
 │ ├── routes/ 
@@ -53,7 +53,7 @@ A MERN-stack ecommerce application built for the **Vibe Commerce screening**. Th
 │ │ └── App.jsx 
 ├── .gitignore 
 ├── README.md
-
+```
 
 
 ---
@@ -61,15 +61,20 @@ A MERN-stack ecommerce application built for the **Vibe Commerce screening**. Th
 ## 📦 Installation
 
 ### Backend
+```bash
 cd backend
 npm install
 npm start
+```
 
+---
 
 ### Frontend
+```bash
 cd frontend
 npm install
 npm run dev
+```
 
 ---
 
